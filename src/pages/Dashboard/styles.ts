@@ -24,7 +24,7 @@ export const HeaderContent = styled.div`
     border: 0;
 
     svg {
-      color: #9995991;
+      color: #999591;
       width: 20px;
       height: 20px;
     }
@@ -174,6 +174,7 @@ export const Appointment = styled.div`
     display: flex;
     align-items: center;
     color: #f4ede8;
+    width: 100px;
 
     svg {
       color: #ff9900;
