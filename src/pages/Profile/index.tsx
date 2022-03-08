@@ -127,7 +127,7 @@ const Profile: React.FC = () => {
 
           addToast({
             type: 'success',
-            title: 'Updated profile picture!',
+            title: 'Profile picture updated!',
           });
         });
       }
